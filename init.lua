@@ -144,3 +144,11 @@ But not just any garden, it's **our most un-kept garden in the whole academy**!
 Don't get discouraged, and be sure to *explore*!
 ]]
 )
+
+level(8, "Rocks", 19, "theme", {x=2.0,y=8,z=24.5}, {x=20,y=22,z=50}, 
+[[
+There's always more to experience in this world of ours. 
+
+Take the simple rock, for example. They come in millions of shapes, colors, and sizes....
+]]
+)
