@@ -134,3 +134,13 @@ I think you have earned a well deserved field trip to one of our favorite natura
 Don't worry, this is still a lesson, but enjoy the adventure and exploration!
 ]]
 )
+
+level(7, "Garden", 21, "theme", {x=9.5,y=4,z=23}, {x=30,y=30,z=40}, 
+[[
+We're back to the basics with this lesson. You'll be exploring a garden today.
+
+But not just any garden, it's **our most un-kept garden in the whole academy**!
+
+Don't get discouraged, and be sure to *explore*!
+]]
+)
