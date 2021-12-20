@@ -124,3 +124,13 @@ level(5, "Mid-Term", 5, "theme", {x=9,y=1,z=4}, {x=20,y=22,z=20},
 ## Take on this mid-term exam!
 ]]
 )
+
+level(6, "Field Trip!", 17, "theme", {x=18,y=7,z=3}, {x=20,y=30,z=40}, 
+[[
+# Congrats on finishing that mid-term!
+
+I think you have earned a well deserved field trip to one of our favorite natural preserves.
+
+Don't worry, this is still a lesson, but enjoy the adventure and exploration!
+]]
+)
