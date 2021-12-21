@@ -55,7 +55,7 @@ local function level(level_num, name, num_stars, sound, start, size, markdown)
     )
 end
 
-level(1, "Trainee", 4, "theme", {x=5.5,y=1,z=5.5}, {x=10,y=22,z=10}, 
+level(1, "Trainee", 4, "1", {x=5.5,y=1,z=5.5}, {x=10,y=22,z=10}, 
 [[
 # Welcome Little Lady!
 
@@ -73,7 +73,7 @@ But simple goals don't always make for easy solutions. You'll need your wits and
 ]]
 )
 
-level(2, "Controls", 2, "theme", {x=5.5,y=3,z=10}, {x=10,y=24,z=20}, 
+level(2, "Controls", 2, "2", {x=5.5,y=3,z=10}, {x=10,y=24,z=20}, 
 [[
 Being a ladybug sometimes can get you into trouble. For your second lesson, we'll learn how to
 navigate the world of being a wonderful ladybug. 
@@ -89,7 +89,7 @@ PS: There's one other control you might like: hit "C" on your keyboard to switch
 ]]
 )
 
-level(3, "Water", 3, "theme", {x=5.5,y=3,z=2}, {x=10,y=24,z=20}, 
+level(3, "Water", 3, "3", {x=5.5,y=3,z=2}, {x=10,y=24,z=20}, 
 [[
 Water is a ladybug's best friend: it allows the plants and flowers to grow big and tall!
 
@@ -100,7 +100,7 @@ In this lesson though, feel free to *test out the waters* to get hang of things,
 ]]
 )
 
-level(4, "Flowers", 3, "theme", {x=18,y=1,z=18}, {x=20,y=22,z=20}, 
+level(4, "Flowers", 3, "4", {x=18,y=1,z=18}, {x=20,y=22,z=20}, 
 [[
 You may have noticed, in the last lesson you had to make a leap of faith... well expect to jump like that in life, and in future lessons...
 
@@ -117,7 +117,7 @@ Hint: As you learn to be a ladybug, you really should go to the main minetest me
 ]]
 )
 
-level(5, "Mid-Term", 5, "theme", {x=9,y=1,z=4}, {x=20,y=22,z=20}, 
+level(5, "Mid-Term", 5, "5", {x=9,y=1,z=4}, {x=20,y=22,z=20}, 
 [[
 ## So you think you're hot stuff now that you've dealt with some plant climbing? 
 
@@ -125,7 +125,7 @@ level(5, "Mid-Term", 5, "theme", {x=9,y=1,z=4}, {x=20,y=22,z=20},
 ]]
 )
 
-level(6, "Field Trip!", 17, "theme", {x=18,y=7,z=3}, {x=20,y=30,z=40}, 
+level(6, "Field Trip!", 17, "6", {x=18,y=7,z=3}, {x=20,y=30,z=40}, 
 [[
 # Congrats on finishing that mid-term!
 
@@ -135,7 +135,7 @@ Don't worry, this is still a lesson, but enjoy the adventure and exploration!
 ]]
 )
 
-level(7, "Garden", 21, "theme", {x=9.5,y=4,z=23}, {x=30,y=30,z=40}, 
+level(7, "Garden", 21, "7", {x=9.5,y=4,z=23}, {x=30,y=30,z=40}, 
 [[
 We're back to the basics with this lesson. You'll be exploring a garden today.
 
@@ -145,7 +145,7 @@ Don't get discouraged, and be sure to *explore*!
 ]]
 )
 
-level(8, "Rocks", 19, "theme", {x=2.0,y=8,z=24.5}, {x=20,y=22,z=50}, 
+level(8, "Rocks", 19, "8", {x=2.0,y=8,z=24.5}, {x=20,y=22,z=50}, 
 [[
 There's always more to experience in this world of ours. 
 
