@@ -112,8 +112,6 @@ so climbing is extremely important at this stage in your development.
 ###### (4th wall break: biologists, please don't shoot me)
 
 So, you'll be practicing your climbing skills, and a little bit of your exploration skills in this lesson: get to it!
-
-Hint: As you learn to be a ladybug, you really should go to the main minetest menu and change "Node Outlining" to "None"... you'll enjoy the game a LOT more...
 ]]
 )
 
